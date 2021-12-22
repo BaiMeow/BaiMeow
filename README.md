@@ -14,7 +14,7 @@
 ---
 
 **这里是柏喵Sakura**
-
+- 在校大学生
 - 现任[Miaoscraft](https://github.com/miaoscraft)管理
 - 想写啥不计代价，不想写全咕
 - fishbot软件维护者
