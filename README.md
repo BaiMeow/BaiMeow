@@ -1,7 +1,5 @@
 ### 喵~
 
-[![wakatime](https://wakatime.com/badge/user/84476697-3421-4720-bcdc-efb5c0fbc1b8.svg?style=flat-square)](https://wakatime.com/@84476697-3421-4720-bcdc-efb5c0fbc1b8)
-
 ![BaiMeow's github stats](https://github-readme-stats-baimeow.vercel.app/api?username=BaiMeow&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
 #### 咱干的↑ 咱会的↓
