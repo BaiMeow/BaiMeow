@@ -13,7 +13,8 @@
 
 **这里是柏喵Sakura**
 - 在校大学生
-- 现任[Miaoscraft](https://github.com/miaoscraft)管理
+- Vidar-Team Web手/网管
+- 过气[Miaoscraft](https://github.com/miaoscraft)管理
 - 想写啥不计代价，不想写全咕
-- fishbot软件维护者
+- NetworkMonitor软件维护者
 - 我也不太明白我算不算minecraft玩家
