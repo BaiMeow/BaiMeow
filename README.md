@@ -5,7 +5,7 @@
 #### 咱干的↑ 咱会的↓
 
 
-![Top Langs](https://github-readme-stats-baimeow.vercel.app/api/top-langs/?username=BaiMeow&langs_count=10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats-baimeow.vercel.app/api/top-langs/?username=BaiMeow&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 **这不看看我[blog](https://baimeow.cn)？**
 
