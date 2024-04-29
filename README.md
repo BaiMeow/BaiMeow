@@ -6,6 +6,8 @@
 <h3 align="center">@Vidar-Team & @El3ctronic</h3>
 
 <p align='center'>
-  <img src='https://github-readme-stats-baimeow.vercel.app/api?username=BaiMeow&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff'>
+  <img height=180 src='https://github-readme-stats-baimeow.vercel.app/api?username=BaiMeow&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff'>
+  </img>
+    <img height=180 src='https://github-readme-stats-baimeow.vercel.app/api/top-langs/?username=BaiMeow&langs_count=10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'>
   </img>
 </p>
