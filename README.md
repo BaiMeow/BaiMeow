@@ -1,13 +1,10 @@
-<h1 align='center'>Hi! I'm BaiMeow Sakura.</h1>
+<h3 align='left'>Hello!</h1>
+<h1 align='left'>I'm BaiMeow Sakura.</h1>
+<h3 align="left">Web Security Engineer / Full-stack Developer / BGP Player</h3>
+<img height=200 align="right" src='https://github-readme-stats-baimeow.vercel.app/api?username=BaiMeow&show_icons=true&count_private=true&include_all_commits=true&theme=transparent'></img>
+<h3 align="left">I am here ...</h3>
 
-<h3 align="center">🔭 HDU Student</h3>
-<h3 align="center">🌐 DN11 AS4220084444 </h3>
-<h6 align="center">🌱 CTFer </h6>
-<h3 align="center">@Vidar-Team & @El3ctronic</h3>
-
-<p align='center'>
-  <img height=180 src='https://github-readme-stats-baimeow.vercel.app/api/top-langs/?username=BaiMeow&langs_count=10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'>
-  </img>
-  <img height=180 src='https://github-readme-stats-baimeow.vercel.app/api?username=BaiMeow&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff'>
-  </img>
-</p>
+- CTFer of [@Vidar-Team](https://vidar.club) & @El3ctronic
+- Co-founder of [DN11](https://dn11.top) as AS4220084444
+- Founder of [hduLib](https://github.com/hduLib)
+- Creator of [NetworkMonitor](https://github.com/BaiMeow/NetworkMonitor)
