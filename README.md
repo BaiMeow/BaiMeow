@@ -4,7 +4,7 @@
 <img height=200 align="right" src='https://github-readme-stats-baimeow.vercel.app/api?username=BaiMeow&show_icons=true&count_private=true&include_all_commits=true&theme=transparent'></img>
 <h3 align="left">I am here ...</h3>
 
-- CTFer of [@Vidar-Team](https://vidar.club) & @El3ctronic
+- CTFer of [@Vidar-Team](https://vidar.club) & [@El3ctronic](https://github.com/D-3CTF)
 - Co-founder of [DN11](https://dn11.top) as AS4220084444
 - Founder of [hduLib](https://github.com/hduLib)
 - Creator of [NetworkMonitor](https://github.com/BaiMeow/NetworkMonitor)
