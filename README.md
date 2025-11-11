@@ -8,3 +8,5 @@
 - Co-founder of [DN11](https://dn11.top) as AS4220084444
 - Founder of [hduLib](https://github.com/hduLib)
 - Creator of [NetworkMonitor](https://github.com/BaiMeow/NetworkMonitor)
+
+<img height=200  src="https://gitroll.io/api/badges/profiles/v1/uYrG0GiJz5JQESHk5P4K0euYvpYv2?theme=dark" alt="GitRoll Profile Badge"/>
